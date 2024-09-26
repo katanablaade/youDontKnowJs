@@ -14,6 +14,7 @@ book[2].before(book[5]);
 img.style.backgroundImage = 'url(image/you-dont-know-js.jpg)';
 book[4].querySelector('a').textContent = 'Книга 3. this и Прототипы Объектов';
 adv.remove();
+
 liFirst[3].after(liFirst[2]);
 liFirst[8].after(liFirst[2]);
 liFirst[3].after(liFirst[6]);
